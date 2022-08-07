@@ -2,7 +2,7 @@
 
 Recipe application with custom recipe uploads.
 This is the finale project from the course "The Complete JavaScript Course 2022: From Zero to Expert!".
-The course is created and developed by Jonas Schmedtmann [@jonasschmedtmann].
+The course is created and developed by Jonas Schmedtmann [@jonasschmedtmann](https://github.com/jonasschmedtmann).
 
 ## Built with
 
